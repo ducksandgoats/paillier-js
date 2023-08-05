@@ -1,5 +1,5 @@
 'use strict';
-const crypto = require('crypto-browserify');
+const crypto = require('randomfill');
 const bigInt = require('big-integer');
 const {Buffer} = require('buffer');
 
