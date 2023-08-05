@@ -1,5 +1,5 @@
 'use strict';
-const crypto = require('crypto');
+const crypto = require('crypto-browserify');
 const bigInt = require('big-integer');
 const {Buffer} = require('buffer');
 
