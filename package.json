@@ -21,6 +21,6 @@
   "dependencies": {
     "big-integer": "^1.6.48",
     "buffer": "^6.0.3",
-    "randomfill": "^1.0.4"
+    "randomfill": "github:ducksandgoats/randomfill"
   }
 }
