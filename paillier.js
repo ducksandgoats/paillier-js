@@ -1,6 +1,7 @@
 'use strict';
 const crypto = require('crypto');
 const bigInt = require('big-integer');
+const {Buffer} = require('buffer');
 
 bigInt.rand = function (bitLength) {
     let bytes = bitLength / 8;

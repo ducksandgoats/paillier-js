@@ -19,6 +19,7 @@
   "repository": "github:juanelas/paillier-js",
   "main": "./paillier.js",
   "dependencies": {
-    "big-integer": "^1.6.48"
+    "big-integer": "^1.6.48",
+    "buffer": "^6.0.3"
   }
 }
